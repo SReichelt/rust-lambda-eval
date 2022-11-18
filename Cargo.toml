@@ -1,0 +1,8 @@
+[package]
+name = "rust-lambda-eval"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+lambda-calculus = { path = "lambda-calculus" }
+lambda-calculus-macro = { path = "lambda-calculus-macro" }
